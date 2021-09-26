@@ -1,0 +1,1 @@
+# Total Harmonic Distortion (THD)
