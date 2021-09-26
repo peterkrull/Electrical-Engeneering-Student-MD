@@ -1,10 +1,10 @@
-[BACK TO STARTPAGE - EES](../BACK%20TO%20STARTPAGE%20-%20EES.md)
+[START PAGE](../START%20PAGE.md)
 
 status :: #empty 
 
 # Analog Circuit Design
 
-\#MOC #course
+tags :: #MOC #course #EIT3 #semester3 
 
 * Transistors
   * [BJT](BJT.md)
@@ -12,8 +12,9 @@ status :: #empty
     * *JFET*
     * *MOSFET*
     * *N and P channel FETs*
-* \[Op-amp\]
-  * *The ideal op-amp*
+* Integrated circuits
+  * *Op-amp*
+    * *The ideal op-amp*
 * Distortion
   * [THD](THD.md)
 * Amplifiers

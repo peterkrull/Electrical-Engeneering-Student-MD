@@ -2,7 +2,7 @@ status :: #green
 
 # Block diagram reduction example 1
 
-\#block-diagram #example
+tags :: #block-diagram #example
 
 Take the following block diagram:
 

@@ -4,6 +4,8 @@
 
 Electrical Engineering was never the easiest path we could have taken in life. We knew that going in, but the alure of being able to design and implement highly technical devices, develop new and innovative solutions, control complex machines and solve the hardest of problems with electrical systems was simply too great. Being a student though, with the subjects we are required to master (or perhaps just pass), can be tough. A lot of knowledge has to enter our heads and hope fully stay there. For some, just long enough to pass the exam, and for others, long enough to make a career out of it. Whatever the reason, having access to good, traceable information is extremely important. 
 
+To get started, visit the [START PAGE](START%20PAGE.md) and start browsing, learning and contributing!
+
 #### Created with love, tears and coffee - Peter Krull
 
 ---

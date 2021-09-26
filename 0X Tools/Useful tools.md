@@ -1,10 +1,10 @@
-[BACK TO STARTPAGE - EES](../BACK%20TO%20STARTPAGE%20-%20EES.md)
+[START PAGE](../START%20PAGE.md)
 
 status :: #yellow 
 
 # Tools
 
-\#MOC 
+tags :: #MOC 
 
 Being a student of [electrical engineering](../0X%20Miscellaneous/electrical%20engineering.md), it is not just important to follow and learn as much as possible from the courses, but some tangential tools are a must to be familiar with at least at a basic level.
 

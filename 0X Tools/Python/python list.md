@@ -4,14 +4,18 @@ status :: #red
 
 \#python #list #array
 
-**Creating a list**
+---
+
+## Creating a list
 
 ````Python
 >>> a = [] # creates an empty list
 >>> b = [1,2,3,4] # creates a list
 ````
 
-**Appending to a list**
+---
+
+## Appending to a list
 
 ````Python
 >>> a.append("Hello")
@@ -20,9 +24,11 @@ status :: #red
 ["Hello","world"]
 ````
 
-#### Indexing a list
+---
 
-Most [programming](../Programming.md) languages [index](../../0%20and%201%20indexing.md) from 0. What this means is that the first entry in the list, exists at the 0th place in the list, the second in the 1st, third in the 2nd and so forth. This will often confuse both beginner and experienced programmers
+## Indexing a list
+
+Most [programming](../Programming.md) languages [index](../0%20and%201%20indexing.md) from 0. What this means is that the first entry in the list, exists at the 0th place in the list, the second in the 1st, third in the 2nd and so forth. This will often confuse both beginner and experienced programmers
 
 ````Python
 #          0th	   1st     2nd     3rd
@@ -48,7 +54,9 @@ When you have multi-dimensional or "nested" lists, indexing happens in an outsid
 ["Johan","Peter","Sarah","Aleks"]
 ````
 
-#### Iterate through lists
+---
+
+## Iterate through lists
 
 *Python syntax* is fairly unique that allows us to write some pretty handy code. Take this example, where we are able to iterate through the list using a *for-loop* where the iterator of the for loop is not just the index of the list, but the actual entry of the list.
 

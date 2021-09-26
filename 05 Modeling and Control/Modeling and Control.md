@@ -1,10 +1,10 @@
-[BACK TO STARTPAGE - EES](../BACK%20TO%20STARTPAGE%20-%20EES.md)
+[START PAGE](../START%20PAGE.md)
 
 status :: #yellow 
 
 # Modeling and control
 
-\#MOC #course #EIT5 #semester5
+tags :: #MOC #course #EIT5 #semester5
 
 ***Academic content***
 
@@ -19,7 +19,7 @@ status :: #yellow
   * *Model of DC-motor*
   * [Block diagram](block%20diagram.md)
     * [Block diagram algebra](block%20diagram%20algebra.md)
-  * [Describing mechanical systems](../XX%20Uncategorized/Describing%20mechanical%20systems.md)
+  * [Describing mechanical systems](Describing%20mechanical%20systems.md)
     * *System model representation*
     * *Free body diagram*
     * *Translational mechanical system*

@@ -1,7 +1,7 @@
-[BACK TO STARTPAGE - EES](../BACK%20TO%20STARTPAGE%20-%20EES.md)
+[START PAGE](../START%20PAGE.md)
 
 status :: #empty 
 
 # Signal Processing
 
-\#MOC #course #EIT5 #semester5
+tags :: #MOC #course #EIT5 #semester5

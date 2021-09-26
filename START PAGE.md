@@ -2,7 +2,7 @@ status :: #green
 
 # Semester course overview
 
-\#home #MOC
+tags :: #home #MOC
 
 This course overview applies to [electrical engineering](0X%20Miscellaneous/electrical%20engineering.md) students at [Aalborg University](https://www.aau.dk/).
 
@@ -30,7 +30,7 @@ This course overview applies to [electrical engineering](0X%20Miscellaneous/elec
 
 ## Related subjects
 
-* [Tools](0X%20Tools/Tools.md) :: #MOC Set of tools which will come in handy
+* [Useful tools](0X%20Tools/Useful%20tools.md) :: #MOC Set of tools which will come in handy
   * [Programming](0X%20Tools/Programming.md) :: Guides on common programming languages
   * [Simulating](0X%20Tools/Simulating.md) :: Guides on various relevant simulation tools
 * [Electrical Engineering](0X%20Miscellaneous/electrical%20engineering.md) :: So what even is electrical engineering?

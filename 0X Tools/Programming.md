@@ -1,14 +1,14 @@
-[BACK TO STARTPAGE - EES](../BACK%20TO%20STARTPAGE%20-%20EES.md)
+[START PAGE](../START%20PAGE.md)
 
 status :: #yellow 
 
 # Programming
 
-\#MOC
+tags :: #MOC
 
 ## Programming languages
 
-\#programming
+tags :: #programming
 
 * [C](C-lang/C.md)
 * *Java*
@@ -18,7 +18,7 @@ status :: #yellow
 
 ## Hardware Description Languages
 
-\#HDL #hardware-description-language
+tags :: #HDL #hardware-description-language
 
 * *VHDL*
 * *Verilog*

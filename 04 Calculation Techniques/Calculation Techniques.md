@@ -1,10 +1,10 @@
-[BACK TO STARTPAGE - EES](../BACK%20TO%20STARTPAGE%20-%20EES.md)
+[START PAGE](../START%20PAGE.md)
 
 status :: #yellow
 
 # Calculation Techniques
 
-\#MOC #course #EIT3 #EIT4 #semester3 #semester4
+tags :: #MOC #course #EIT3 #EIT4 #semester3 #semester4
 
 The subject of Calculation Techniques contains the following 6 sub-subjects:
 
